@@ -1,0 +1,63 @@
+<html>
+<head>
+    <title>Explore the WEB</title>
+<body>
+    <h1>Explore WEB</h1>
+    <p>Explore this web to get lot's of information around the globe.Click any link here to enter the website.</p>
+<h2>Learn more</h2>
+<p>Visit <a href="https://www.Wikipedia.org/">Wikipedia</a>World's larjest free encyclopeadia.</p>
+<p>Discover books that change life and way you rhink at<a href="https://www.goodreeds.com/">Goodreeds</a> - the world's larjest community of sharing books about life,courage and wisdom.</p>
+<h2>Explore Space</h2>
+<p>Discover the universe at<a href="https://www.nasa.gov/">NASA</a> - live rocket launches,Mars missions and more.</p>
+<p>Seet he deepest images of the space at< a href="https://www.web.nasa.gov">James Webb Space Telescope </a></p>
+<h2>Steps to protect our EARTH</h2>
+<ol type="a">
+    <li>Switch off light when not in use.</li>
+    <li>Use a reusable water body everyday.</li>
+    <li>Walk or cycle instead of using car.
+        <li>Plant a tree in your neighbourhood.</li>
+    <li>Spread awareness to your friends.</li>
+    </ol>
+    <h2>Incredible Natural Wonders</h2>
+    <ul>
+        <li>AMAZON FOREST-Home 10% of all spieces on earth.</li>
+<li>Great Barrier Reef-World's longest coral reef-visible from earth.</li>
+<li>MOUNT EVEREST</li>
+<li>SAHARA DESERT</li>
+</ul>
+<h2>PLANET AND THEIR MOVES</h2>
+<table border ="3">
+    <tr>
+
+        <th>NAME </th>
+<th>SPEED</th>
+        
+    </tr>
+    <tr>
+        <td>
+            Earth
+        </td>
+        <td>23.9 hours</td>
+    </tr>
+ <tr>
+        <td>
+            Mars
+        </td>
+        <td>24.6 hours</td>
+    </tr>
+</table>
+
+
+        
+    
+        
+        
+        
+    
+
+</body>
+</head>
+</html>
+
+        
+    
